@@ -7,6 +7,7 @@ public class StackTest {
  stack.push("TimmyTurner");
  stack.push("Wanda");
  stack.push("Cosmo");
+ stack.push("Crocker");
  
  System.out.println(stack.peekLast());
  System.out.println(stack.peekFirst());
