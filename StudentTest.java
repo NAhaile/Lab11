@@ -20,7 +20,6 @@ public class StudentTest {
    System.out.println("Forward Iteration*******");
    System.out.println("Student Name "+student.getName());
    
-   
   }
   
   while(listIterator.hasPrevious()) {
@@ -29,7 +28,6 @@ public class StudentTest {
    System.out.println("Student Name"+student.getName());
   }
  
-  
   
  }
  
