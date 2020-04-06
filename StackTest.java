@@ -21,6 +21,7 @@ public class StackTest {
  queue.offer("Mama");
  queue.offer("Sisteh");
  
+ 
  System.out.println(queue.peekFirst());
  System.out.println(queue.peekLast());
  
