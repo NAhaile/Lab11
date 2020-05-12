@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class StackTest {
+ public class StackTest {
  public static void main(String[] args) {
  ArrayDeque<String> stack = new ArrayDeque<String>();
  
@@ -26,9 +26,6 @@ public class StackTest {
  System.out.println(queue.peekLast());
  
  queue.poll();
- 
- 
- 
  
  
  
